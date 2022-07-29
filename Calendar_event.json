@@ -16,6 +16,14 @@
                     "color":"rgb(0,128,128)",
                     "description":"Nothing happens this day :)"
                 }
+            ],
+            "10":[
+                {
+                    "event":"Monday Frick!ingni",
+                    "signature":"MonFrickDOASDASDASDASDASASASASASASASASASASASASASASASASASA",
+                    "color":"rgb(0,128,100)",
+                    "description":"Nothing happens this day :)"
+                }
             ]
         }
     }
